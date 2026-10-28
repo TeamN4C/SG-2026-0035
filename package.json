@@ -1,0 +1,10 @@
+{
+  "name": "node2shell-express-json-harness",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Pinned Express dependency for the local CVE-2026-111497 harness",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "5.3.0"
+  }
+}
